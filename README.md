@@ -8,6 +8,8 @@
       🙌Hola en este repositorio encontrarán el código de reconocimiento de
       lenguaje de señas.
     </p>
+
+[Visita mi proyecto en GitHub](https://github.com/cristhian-sdp/Lenguaje-de-senas-con-Python)
     <h2>Introducción:</h2>
     <p>
       👌La lengua de señas es un medio de comunicación visual y gestual
