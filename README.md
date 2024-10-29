@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
-    <h1>lenguaje de señas con Python</h1>
     <p>
       🙌Hola en este repositorio encontrarán el código de reconocimiento de
       lenguaje de señas.
