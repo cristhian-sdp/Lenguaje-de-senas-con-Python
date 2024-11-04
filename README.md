@@ -1,6 +1,6 @@
 # Lenguaje de Señas con Python
 
-🙌 Hola, en este repositorio encontrarás el código de reconocimiento de lenguaje de señas.
+🙌 Hola, en este repositorio encontrarás el código del proyecto "lenguaje de señas con python".
 
 ## Introducción
 
