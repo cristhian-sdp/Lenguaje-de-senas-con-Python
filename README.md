@@ -2,7 +2,7 @@
 
 🙌 Hola, en este repositorio encontrarás el código del proyecto "lenguaje de señas con python".
 
-## Introducción
+## Descripción
 
 👌 La lengua de señas es un medio de comunicación visual y gestual utilizado por personas sordas o con discapacidad auditiva para expresar y recibir información. Al proporcionar un código de lenguaje de señas, se busca promover la inclusión social y la participación activa de las personas sordas en la sociedad.
 
@@ -16,7 +16,7 @@
 - Scikit-learn (para SVM)
 - Numpy
 
-## Requisitos Previos
+## Requisitos Previos para la instalación
 
 Antes de comenzar con la implementación, asegúrate de tener instaladas las siguientes bibliotecas de Python. Puedes instalarlas utilizando el siguiente comando:
 
@@ -42,3 +42,11 @@ Antes de ejecutar el segundo código, asegúrate de haber capturado suficientes 
 - Entrena un modelo SVM utilizando scikit-learn.
 - Utiliza el modelo entrenado para predecir la letra de la mano en tiempo real a través de la cámara.
 - Muestra la letra predicha en la ventana de la cámara.
+
+## Contribución
+
+Si deseas contribuir a este proyecto, por favor dirígete al archivo de [Guías de Contribución](./CONTRIBUTING.md).
+
+## Contacto
+
+Para cualquier consulta o sugerencia, por favor contacta a través de [steffanod948@gmail.com](mailto:steffanod948@gmail.com).
