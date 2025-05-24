@@ -45,7 +45,7 @@ Antes de ejecutar el segundo código, asegúrate de haber capturado suficientes 
 
 ## Contribución
 
-Si deseas contribuir a este proyecto, por favor dirígete al archivo de [Guías de Contribución](./CONTRIBUTING.md).
+Si deseas contribuir a este proyecto, por favor lee nuestras [Guías de Contribución](./CONTRIBUTING.md) para obtener información detallada sobre el proceso de envío de cambios.
 
 ## Contacto
 
